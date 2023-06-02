@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/modbus.png</file>
+    </qresource>
+</RCC>
